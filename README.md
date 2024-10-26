@@ -10,3 +10,4 @@ The following repository contains the following notebooks
 - PlS Model: A notebook that specifies the reflective and structural model
 - Evaluation of Model: a notebook that evaluates indicators, and structure and performs model comparisons
 - Mediation Analysis: a notebook that performs mediation analysis on the proposed model
+  ![Mediated Model (5)](https://github.com/user-attachments/assets/b9172016-0d03-49c9-9355-e828ed3fd9aa)
