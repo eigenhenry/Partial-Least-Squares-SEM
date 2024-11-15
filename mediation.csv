@@ -1,0 +1,12 @@
+Path Label,Path,Original Est.,Indirect Labels,Indirect Effects,,,T Stat,2.5% CI,97.5% CI
+p3,Chair  ->  Autonomy,0.29,p3*p7,Chair -> Autonomy -> Global Sat,,0.08,4.55,0.04,0.11
+p4,Chair  ->  Related,0.26,p4*p8,Chair -> Relatedness -> Global Sat,,0.17,6.45,0.12,0.22
+d1,Chair  ->  Global Sat,0.24,,,,,,,
+p5,Dep feedback   ->  Autonomy,0.34,p5*p7,Dep feedback   ->  Autonomy -> Global Sat ,,0.09,4.35,0.05,0.13
+p6,Dep feedback   ->  Related,0.55,p6*p8,Dep feedback   ->  Related  ->  Global Sat,,0.36,10.09,0.29,0.43
+d2,Dep feedback   ->  Global Sat,0.45,,,,,,,
+p1,Inst support   ->  Autonomy,0.35,p1*p7,Inst support   ->  Autonomy -> Global Sat,,0.09,4.65,0.05,0.13
+p2,Inst support   ->  Related,0.14,p2*p8,Inst support   ->  Related -> Global Sat,,0.09,3.54,0.04,0.15
+d3,Inst support   ->  Global Sat,0.19,,,,,,,
+p7,Autonomy  ->  Global Sat,0.26,,,,,,,
+p8,Related  ->  Global Sat,0.65,,,,,,,
